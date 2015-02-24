@@ -7,7 +7,7 @@
 #' In cell 2 sweets were presented in reversed order. There are screening questions at the beginning of the questionnaire.  Questions about respondent
 #' impressions about first product are in the block A (and about second tested product in the
 #' block B). At the end of the questionnaire  there are questions about preferences between sweets. 
-#' ProductTestRaw contains some errors in data. It used for examples in  cleaning functions.  
+#' This dataset contains some errors in data. It used for examples in  cleaning functions.  
 #'    
 #' 
 #' @format A data frame with 150 rows and 77 variables:
@@ -39,8 +39,6 @@
 #'    \item{c2_1-c2_6}{Reasons for preferences. Multiple response.}
 #' }
 #' @docType data
-"ProductTest"
-
-
-#' @rdname ProductTest
 "ProductTestRaw"
+
+
